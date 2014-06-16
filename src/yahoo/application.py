@@ -31,7 +31,7 @@ Hosted on GitHub: http://github.com/yahoo/yos-social-python/tree/master
 """
 
 __author__   = 'Dustin Whittle <dustin@yahoo-inc.com>'
-__version__  = '0.1'
+__version__  = '0.2'
 
 import time, random, oauthlib.oauth, simplejson
 
